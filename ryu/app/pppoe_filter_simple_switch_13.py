@@ -1,5 +1,5 @@
 #######################################################################################
-# The Code is updated to Filter PPPOE frames and send them to controller
+# The Code is updated to Filter PPPOE frames and send them to the controller
 # Based on OpenFlow 1.3
 #######################################################################################
 # Copyright (C) 2011 Nippon Telegraph and Telephone Corporation.
