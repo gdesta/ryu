@@ -1,8 +1,6 @@
 #######################################################################################
-# The Code is updated to Filter PPPOE frames and send to controller
-# Updated by Girmaye Desta
-# Simple switch based on OpenFlow 1.3 that selects PPPoE frames
-# and sends them to the controller
+# The Code is updated to Filter PPPOE frames and send them to controller
+# Based on OpenFlow 1.3
 #######################################################################################
 # Copyright (C) 2011 Nippon Telegraph and Telephone Corporation.
 #
